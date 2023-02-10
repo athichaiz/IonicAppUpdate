@@ -1,5 +1,5 @@
 <update>
     <version>00001</version>
     <name>MyApp</name>
-    <url>@android/app/build/outputs/apk/debug/app-debug.apk</url>
+    <url>https://raw.githubusercontent.com/athichaiz/IonicAppUpdate/main/app-debug.apk</url>
 </update>
